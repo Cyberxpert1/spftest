@@ -5,7 +5,7 @@
 </head>
 <body>
 <div id="header">
-<h1>SPF RECORD TESTING TOOL</h1>
+<h1>SPF TESTING TOOL</h1>
  <div id="menu">
   <ul id="nav"
   </ul>
@@ -120,4 +120,4 @@ up and DNS queries have to be answered. Please be patient...</p>
 		
     <div class="box">
 	   <div style="font-size: 0.9em;"><ul><li>Content copyright 2024-2025.</li>
-<li>Design by*****YASHGLad*****</li>
+<li>Designed By ****YashGlad**** </li>
