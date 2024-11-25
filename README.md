@@ -1,5 +1,3 @@
-# spftest.io
-
 <!DOCTYPE html PC>
 <html>
 <head>
