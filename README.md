@@ -1,13 +1,13 @@
+
 <html>
 <head>
-<H1>Sender Policy Framework Testing<H1>
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 </head>
 <body>
 <div id="header">
-<h1>SPF TESTING TOOL</h1>
+<h1>SPF RECORD TESTING TOOL</h1>
  <div id="menu">
-  <ul id="nav"
+  <ul id="nav">
   </ul>
  </div>
 </div>
@@ -118,6 +118,4 @@ the request is submitted. The Python interpreter may need to be fired
 up and DNS queries have to be answered. Please be patient...</p>
 </div>
 		
-    <div class="box">
-	   <div style="font-size: 0.9em;"><ul><li>Content copyright 2024-2025.</li>
-<li>Designed By ****YashGlad**** </li>
+<li>Design by*****YASHG*****</li>
