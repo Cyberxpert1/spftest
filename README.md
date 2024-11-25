@@ -1,13 +1,13 @@
 <html>
 <head>
-<title>Yash's SPF Query</title>
+<H1>Sender Policy Framework Testing<H1>
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 </head>
 <body>
 <div id="header">
 <h1>SPF RECORD TESTING TOOL</h1>
  <div id="menu">
-  <ul id="nav">
+  <ul id="nav"
   </ul>
  </div>
 </div>
