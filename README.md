@@ -23,11 +23,11 @@
 
 <form method="post" action="https://www.kitterman.com/spf/getspf3.py">
 <input type="hidden" name="serial" value="fred12">
-<table border="1" width="460">
+<table border="0" width="460">
 <tbody>
 <tr>
 <td align="right">Domain name: </td>
-<td> <input name="domain" size="39" type="text"></td>
+<td> <input name="domain" size="35" type="text"></td>
 </tr>
 <tr>
 <td> <input value="Get SPF Record (if any)" type="submit"></td>
@@ -52,11 +52,11 @@ present.</p>
 <tbody>
 <tr>
 <td align="right">Domain: </td>
-<td> <input name="domain" size="39" type="text"></td>
+<td> <input name="domain" size="35" type="text"></td>
 </tr>
 <tr>
 <td align="right">SPF Record: </td>
-<td> <input name="record" size="39" type="text"></td>
+<td> <input name="record" size="35" type="text"></td>
 </tr>
 <tr>
 <td> <input value="Check SPF record" type="submit"></td>
@@ -80,25 +80,25 @@ extracted from the supplied mail from address. If an SPF record
 is supplied, it is used for the initial evaluation instead of any
 record published in DNS for the domain.</p>
 <form method="post" action="https://www.kitterman.com/spf/test5.py">
-<table border="1" width="460">
+<table border="0" width="460">
 <tbody>
 <tr>
 <td align="right">IP Address: </td>
-<td> <input name="ip" size="39" type="text"></td>
+<td> <input name="ip" size="35" type="text"></td>
 </tr>
 <tr>
 <td align="right">SPF Record v=spf1...://--&gt; <br>
 </td>
-<td> <input name="record" size="39" type="text"></td>
+<td> <input name="record" size="35" type="text"></td>
 </tr>
 <tr>
 <td align="right">Mail From Address: </td>
-<td> <input name="mfrom" size="39" type="text"></td>
+<td> <input name="mfrom" size="35" type="text"></td>
 </tr>
 <tr>
 <td align="right">HELO/EHLO Address://--&gt; <br>
 </td>
-<td> <input name="helo" size="39" type="text"></td>
+<td> <input name="helo" size="35" type="text"></td>
 </tr>
 <tr>
 <td> <input value="Test SPF Record" type="submit"></td>
