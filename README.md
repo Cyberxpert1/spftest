@@ -5,7 +5,7 @@
 </head>
 <body>
 <div id="header">
-<h1> ⁜ ŸÄŚĤĞ SPF TESTING </h1>
+<h1> ※Live SPF Records Testing </h1>
  <div id="menu">
   <ul id="nav">
   </ul>
