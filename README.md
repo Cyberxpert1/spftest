@@ -15,7 +15,7 @@
 <div id="right">
 <h2> •HIGHLIGHTS </h2>
 <p>These tools are meant to help you deploy SPF records for your domain. They use an actual RFC 7208 compliant library (pyspf) for tests and will dynamically test for processing limit errors (no other testers I'm aware of do this). This site uses a caching DNS resolver, so for tests that use live DNS, results will be cached for the Time To Live of the DNS record. For most basic uses, these tests should be reasonably self explanatory. Advanced users may need, and probably want, some additional information on how these tools work. It can be found.</p>
-<h2>Does my domain already have an SPF record? What is it? Is it valid?</h2>
+<h2> •Does my domain already have an SPF record? What is it? Is it valid? </h2>
 
 <p>Retrieves SPF records for the specified domain name and determines if the record is valid.</p>
 
@@ -38,7 +38,7 @@
 </form>
 <p>NOTE: The domain is everything to the right of the '@' in the e-mail
 address.</p>
-<h2>Is this SPF record valid - syntactically correct?</h2>
+<h2> •Is this SPF record valid - syntactically correct? </h2>
 <p>Tests the supplied SPF record to see if it is valid. This test
 does NOT look up the record for the supplied domain. It only
 tests the validity of the supplied record. This test is for
@@ -70,7 +70,7 @@ present.</p>
 ~all.<br>Except for %d, does not currently support records that include macros.
 </p>
 <p></p>
-<h2>Test an SPF record</h2>
+<h2> •Test an SPF record </h2>
 <p>This test is for evaluating the performance
 of your record based on different IP addresses that mail might come
 from (this is the IP address of the mail server). It can also be
