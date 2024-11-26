@@ -5,7 +5,7 @@
 </head>
 <body>
 <div id="header">
-<h1> ŸÄŚĤĞ SPF TESTING </h1>
+<h1> ⁜ ŸÄŚĤĞ SPF TESTING </h1>
  <div id="menu">
   <ul id="nav">
   </ul>
@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td> <input value="Get SPF Record (if any)" type="submit"></td>
-<td align="right"> <input value="Reset Form" type="reset"></td>
+<td align="right"> <input value="Reset" type="reset"></td>
 </tr>
 </tbody>
 </table>
@@ -60,7 +60,7 @@ present.</p>
 </tr>
 <tr>
 <td> <input value="Check SPF record" type="submit"></td>
-<td align="right"> <input value="Reset Form" type="reset"></td>
+<td align="right"> <input value="Reset" type="reset"></td>
 </tr>
 </tbody>
 </table>
@@ -102,7 +102,7 @@ record published in DNS for the domain.</p>
 </tr>
 <tr>
 <td> <input value="Test SPF Record" type="submit"></td>
-<td align="right"> <input value="Reset Form" type="reset"></td>
+<td align="right"> <input value="Reset" type="reset"></td>
 </tr>
 </tbody>
 </table>
