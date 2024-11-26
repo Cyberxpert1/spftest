@@ -5,7 +5,7 @@
 </head>
 <body>
 <div id="header">
-<h1>SPF RECORD TESTING TOOL</h1>
+<h1> ŸÄŚĤĞ SPF TESTING </h1>
  <div id="menu">
   <ul id="nav">
   </ul>
@@ -13,7 +13,7 @@
 </div>
 <div id="content">
 <div id="right">
-<h2>Overview</h2>
+<h2>⁙HIGHLIGHTS⁙</h2>
 <p>These tools are meant to help you deploy SPF records for your domain. They use an actual RFC 7208 compliant library (pyspf) for tests and will dynamically test for processing limit errors (no other testers I'm aware of do this). This site uses a caching DNS resolver, so for tests that use live DNS, results will be cached for the Time To Live of the DNS record. For most basic uses, these tests should be reasonably self explanatory. Advanced users may need, and probably want, some additional information on how these tools work. It can be found.</p>
 <h2>Does my domain already have an SPF record? What is it? Is it valid?</h2>
 
@@ -118,4 +118,4 @@ the request is submitted. The Python interpreter may need to be fired
 up and DNS queries have to be answered. Please be patient...</p>
 </div>
 		
-<li>Design by*****YASHGLAD*****</li>
+<li>THIS WEB DESIGN INSIDER ⁜*****※YASHGLAD※*****⁜ </li>
