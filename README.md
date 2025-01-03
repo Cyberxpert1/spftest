@@ -1,11 +1,10 @@
-
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 </head>
 <body>
 <div id="header">
-<h1> ※Live SPF Records Testing </h1>
+<h1> ※Live SPF Valid Checker  </h1>
  <div id="menu">
   <ul id="nav">
   </ul>
@@ -20,7 +19,6 @@
 <p>Retrieves SPF records for the specified domain name and determines if the record is valid.</p>
 
 <br>
-
 <form method="post" action="https://www.kitterman.com/spf/getspf3.py">
 <input type="hidden" name="serial" value="fred12">
 <table border="0" width="460">
@@ -59,7 +57,7 @@ present.</p>
 <td> <input name="record" size="35" type="text"></td>
 </tr>
 <tr>
-<td> <input value="Check SPF record" type="submit"></td>
+<td> <input value= "Check SPF record" type="submit"></td>
 <td align="right"> <input value="Reset" type="reset"></td>
 </tr>
 </tbody>
@@ -118,4 +116,4 @@ the request is submitted. The Python interpreter may need to be fired
 up and DNS queries have to be answered. Please be patient...</p>
 </div>
 		
-<li>THIS WEB DESIGN INSIDER ⁜*****※YASHGLAD※*****⁜ </li>
+<li> Hackers Inside ⁜*※YASHGL※*⁜ </li>
