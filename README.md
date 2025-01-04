@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td> <input value="Get SPF Record (if any)" type="submit"></td>
-<td align="right"> <input value="Reset" type="reset"></td>
+<td align="right"> <input value="Reset" type="Rest"></td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +45,7 @@ domain is used only for mechanisms such as a bare 'a' mechanism that
 have an implied domain. It will also be used for the %d macro if
 present.</p>
 
-<form method="post" action="https://www.kitterman.com/spf/recordcheck.py">
+<form method="post" action="https://www.github.com/Cyberxpert1">
 <table border="0" width="460">
 <tbody>
 <tr>
