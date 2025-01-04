@@ -77,7 +77,7 @@ this has not been thoroughly tested yet). The %d macro is
 extracted from the supplied mail from address. If an SPF record
 is supplied, it is used for the initial evaluation instead of any
 record published in DNS for the domain.</p>
-<form method="post" action="https://www.kitterman.com/spf/test5.py">
+<form method="post" action="https://www.github.com/Cyberxpert1">
 <table border="0" width="460">
 <tbody>
 <tr>
