@@ -19,7 +19,7 @@
 <p>Retrieves SPF records for the specified domain name and determines if the record is valid.</p>
 
 <br>
-<form method="post" action="https://www.kitterman.com/spf/getspf3.py">
+<form method="post" action="https://www.github.com/Cyberxpert1">
 <input type="hidden" name="serial" value="fred12">
 <table border="0" width="460">
 <tbody>
