@@ -45,7 +45,7 @@ domain is used only for mechanisms such as a bare 'a' mechanism that
 have an implied domain. It will also be used for the %d macro if
 present.</p>
 
-<form method="post" action="https://www.github.com/Cyberxpert1">
+<form method="post" action="https://www.kitterman.com/spf/getspf3.py">
 <table border="0" width="460">
 <tbody>
 <tr>
@@ -77,7 +77,7 @@ this has not been thoroughly tested yet). The %d macro is
 extracted from the supplied mail from address. If an SPF record
 is supplied, it is used for the initial evaluation instead of any
 record published in DNS for the domain.</p>
-<form method="post" action="https://www.github.com/Cyberxpert1">
+<form method="post" action="ttps://www.kitterman.com/spf/recordcheck.py">
 <table border="0" width="460">
 <tbody>
 <tr>
