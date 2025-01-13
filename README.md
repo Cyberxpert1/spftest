@@ -58,7 +58,7 @@ present.</p>
 </tr>
 <tr>
 <td> <input value= "Check SPF record" type="submit"></td>
-<td align="right"> <input value="Reset" type="reset"></td>
+<td align="right"> <input value="0" type="0"></td>
 </tr>
 </tbody>
 </table>
@@ -77,7 +77,7 @@ this has not been thoroughly tested yet). The %d macro is
 extracted from the supplied mail from address. If an SPF record
 is supplied, it is used for the initial evaluation instead of any
 record published in DNS for the domain.</p>
-<form method="post" action="ttps://www.kitterman.com/spf/recordcheck.py">
+<form method="post" action="ttps://www.github.com/Cyberxpert1">
 <table border="0" width="460">
 <tbody>
 <tr>
