@@ -57,7 +57,7 @@ present.</p>
 <td> <input name="record" size="35" type="text"></td>
 </tr>
 <tr>
-<td> <input value= "Check SPF record" type="submit"></td>
+<td> <input value= "Check SPF record" type="0"></td>
 <td align="right"> <input value="0" type="0"></td>
 </tr>
 </tbody>
