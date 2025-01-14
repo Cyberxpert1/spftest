@@ -118,4 +118,4 @@ the request is submitted. The Python interpreter may need to be fired
 up and DNS queries have to be answered. Please be patient...</p>
 </div>
 		
-<li> Hackers Inside ⁜*※EthicsBytes※*⁜ </li>
+<li> 💢Hackers Inside ⁜*※EthicsBytes※*⁜ </li>
