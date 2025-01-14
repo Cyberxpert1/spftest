@@ -4,7 +4,9 @@
 </head>
 <body>
 <div id="header">
+	
 <h1> ※Live SPF Valid Checker Not For Bug Hunters</h1>
+	
  <div id="menu">
   <ul id="nav">
   </ul>
