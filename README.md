@@ -6,6 +6,7 @@
 <div id="header">
 	
 <h1> ※Live SPF Valid Checker Not For Bug Hunters</h1>
+![Ed-Talks-Ed-Tech](https://github.com/user-attachments/assets/70cb323a-46a6-4e88-9661-8866bde058e9)
 	
  <div id="menu">
   <ul id="nav">
@@ -118,4 +119,4 @@ the request is submitted. The Python interpreter may need to be fired
 up and DNS queries have to be answered. Please be patient...</p>
 </div>
 		
-<li> Hackers Inside ⁜*※YASHGL※*⁜ </li>
+<li> Hackers Inside ⁜*※EthicsBytes※*⁜ </li>
