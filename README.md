@@ -5,9 +5,7 @@
 <body>
 <div id="header">
 	
-<h1> ※Live SPF Valid Checker Not For Bug Hunters</h1>
-
-![Ed-Talks-Ed-Tech](https://github.com/user-attachments/assets/70cb323a-46a6-4e88-9661-8866bde058e9)
+<h1> SPF Valid Checker Not For Hackers </h1>
 	
  <div id="menu">
   <ul id="nav">
@@ -23,7 +21,7 @@
 <p>Retrieves SPF records for the specified domain name and determines if the record is valid.</p>
 
 <br>
-<form method="post" action="https://www.kitterman.com/spf/getspf3.py">
+<form method="Get" action="https://www.kitterman.com/spf/getspf3.py">
 <input type="hidden" name="serial" value="fred12">
 <table border="0" width="460">
 <tbody>
