@@ -5,7 +5,7 @@
 <body>
 <div id="header">
 	
-<h1> SPF Valid Checker Not For Hackers </h1>
+<h1> SPF Valid Checker </h1>
 	
  <div id="menu">
   <ul id="nav">
